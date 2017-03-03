@@ -5,7 +5,7 @@ using PHDGame;
 
 public class TerrainRenderer : MonoBehaviour {
 
-	//mesh info
+	//mesh info stuff
 	public Vector3[] newVertices = new Vector3[3];
 	public Vector2[] newUV = new Vector2[3];
 	public int[] newTriangles = {0,1,2};
